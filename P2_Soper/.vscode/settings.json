@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "pthread.h": "c",
+        "stdint.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "semaphore.h": "c",
+        "utils.h": "c",
+        "errno.h": "c",
+        "votante.h": "c",
+        "candidato.h": "c",
+        "fcntl.h": "c",
+        "wait.h": "c",
+        "handler.h": "c",
+        "types.h": "c",
+        "string.h": "c",
+        "plyconfig.json": "jsonc"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

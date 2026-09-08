@@ -1,0 +1,168 @@
+Id : 000
+Winner : 30362
+Target : 02149005
+Solution : 00000000 (validated)
+Votes : 0/1
+Wallets : 30361:82 30362:1
+
+Id : 001
+Winner : 30362
+Target : 00000000
+Solution : 08916551 (validated)
+Votes : 2/2
+Wallets : 30361:82 30362:2
+
+Id : 002
+Winner : 30362
+Target : 08916551
+Solution : 05970796 (validated)
+Votes : 1/1
+Wallets : 30361:82 30362:3
+
+Id : 003
+Winner : 30362
+Target : 05970796
+Solution : 00937352 (validated)
+Votes : 2/2
+Wallets : 30361:82 30362:4
+
+Id : 004
+Winner : 30361
+Target : 00937352
+Solution : 01835314 (validated)
+Votes : 2/2
+Wallets : 30361:83 30362:4
+
+Id : 005
+Winner : 30362
+Target : 01835314
+Solution : 01835314 (validated)
+Votes : 0/1
+Wallets : 30361:84 30362:5
+
+Id : 006
+Winner : 30362
+Target : 01835314
+Solution : 09331340 (validated)
+Votes : 2/2
+Wallets : 30361:84 30362:6
+
+Id : 007
+Winner : 30362
+Target : 09331340
+Solution : 02986686 (validated)
+Votes : 1/1
+Wallets : 30361:84 30362:7
+
+Id : 008
+Winner : 30362
+Target : 02986686
+Solution : 07299854 (validated)
+Votes : 2/2
+Wallets : 30361:84 30362:8
+
+Id : 009
+Winner : 30362
+Target : 07299854
+Solution : 03981310 (validated)
+Votes : 1/1
+Wallets : 30361:84 30362:9
+
+Id : 010
+Winner : 30362
+Target : 03981310
+Solution : 08021305 (validated)
+Votes : 2/2
+Wallets : 30361:84 30362:10
+
+Id : 011
+Winner : 30362
+Target : 08021305
+Solution : 04673876 (validated)
+Votes : 1/1
+Wallets : 30361:84 30362:11
+
+Id : 012
+Winner : 30362
+Target : 04673876
+Solution : 02013491 (validated)
+Votes : 2/2
+Wallets : 30361:84 30362:12
+
+Id : 013
+Winner : 30361
+Target : 02013491
+Solution : 06435300 (validated)
+Votes : 2/2
+Wallets : 30361:85 30362:12
+
+Id : 014
+Winner : 30362
+Target : 06435300
+Solution : 06435300 (validated)
+Votes : 0/1
+Wallets : 30361:86 30362:13
+
+Id : 015
+Winner : 30362
+Target : 06435300
+Solution : 03077079 (validated)
+Votes : 2/2
+Wallets : 30361:86 30362:14
+
+Id : 016
+Winner : 30362
+Target : 03077079
+Solution : 05218179 (validated)
+Votes : 1/1
+Wallets : 30361:86 30362:15
+
+Id : 017
+Winner : 30362
+Target : 05218179
+Solution : 00787429 (validated)
+Votes : 2/2
+Wallets : 30361:86 30362:16
+
+Id : 018
+Winner : 30361
+Target : 00787429
+Solution : 07952220 (validated)
+Votes : 2/2
+Wallets : 30361:87 30362:16
+
+Id : 019
+Winner : 30362
+Target : 07952220
+Solution : 07952220 (validated)
+Votes : 0/1
+Wallets : 30361:88 30362:17
+
+Id : 020
+Winner : 30362
+Target : 07952220
+Solution : 02000011 (validated)
+Votes : 2/2
+Wallets : 30361:88 30362:18
+
+Id : 021
+Winner : 30361
+Target : 02000011
+Solution : 09327418 (validated)
+Votes : 2/2
+Wallets : 30361:89 30362:18
+
+Id : 022
+Winner : 30362
+Target : 09327418
+Solution : 09327418 (rejected)
+Votes : 0/2
+Wallets : 30362:18
+
+Id : 023
+Winner : 30362
+Target : 09327418
+Solution : 08405727 (validated)
+Votes : 1/1
+Wallets : 30362:19
+

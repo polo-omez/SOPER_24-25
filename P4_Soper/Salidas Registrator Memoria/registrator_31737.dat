@@ -1,0 +1,805 @@
+Id : 000
+Winner : 31737
+Target : 00000000
+Solution : 08916551 (validated)
+Votes : 1/1
+Wallets : 31737:1 31738:0
+
+Id : 001
+Winner : 31738
+Target : 00000000
+Solution : 08916551 (validated)
+Votes : 2/2
+Wallets : 31737:1 31738:1
+
+Id : 002
+Winner : 31738
+Target : 05970796
+Solution : 00937352 (validated)
+Votes : 2/2
+Wallets : 31737:1 31738:3
+
+Id : 003
+Winner : 31737
+Target : 00937352
+Solution : 00937352 (validated)
+Votes : 0/1
+Wallets : 31737:2 31738:4
+
+Id : 004
+Winner : 31737
+Target : 00937352
+Solution : 01835314 (validated)
+Votes : 2/2
+Wallets : 31737:3 31738:4
+
+Id : 005
+Winner : 31738
+Target : 01835314
+Solution : 09331340 (validated)
+Votes : 2/2
+Wallets : 31737:3 31738:5
+
+Id : 006
+Winner : 31738
+Target : 02986686
+Solution : 07299854 (validated)
+Votes : 2/2
+Wallets : 31737:3 31738:7
+
+Id : 007
+Winner : 31738
+Target : 03981310
+Solution : 08021305 (validated)
+Votes : 2/2
+Wallets : 31737:3 31738:9
+
+Id : 008
+Winner : 31738
+Target : 04673876
+Solution : 02013491 (validated)
+Votes : 2/2
+Wallets : 31737:3 31738:11
+
+Id : 009
+Winner : 31737
+Target : 02013491
+Solution : 02013491 (validated)
+Votes : 0/1
+Wallets : 31737:4 31738:12
+
+Id : 010
+Winner : 31737
+Target : 02013491
+Solution : 06435300 (validated)
+Votes : 2/2
+Wallets : 31737:5 31738:12
+
+Id : 011
+Winner : 31737
+Target : 06435300
+Solution : 03077079 (validated)
+Votes : 1/1
+Wallets : 31737:6 31738:12
+
+Id : 012
+Winner : 31737
+Target : 03077079
+Solution : 05218179 (validated)
+Votes : 2/2
+Wallets : 31737:7 31738:12
+
+Id : 013
+Winner : 31737
+Target : 05218179
+Solution : 00787429 (validated)
+Votes : 1/1
+Wallets : 31737:8 31738:12
+
+Id : 014
+Winner : 31737
+Target : 00787429
+Solution : 07952220 (validated)
+Votes : 2/2
+Wallets : 31737:9 31738:12
+
+Id : 015
+Winner : 31737
+Target : 07952220
+Solution : 02000011 (validated)
+Votes : 1/1
+Wallets : 31737:10 31738:12
+
+Id : 016
+Winner : 31737
+Target : 02000011
+Solution : 09327418 (validated)
+Votes : 2/2
+Wallets : 31737:11 31738:12
+
+Id : 017
+Winner : 31738
+Target : 09327418
+Solution : 08405727 (validated)
+Votes : 2/2
+Wallets : 31737:11 31738:13
+
+Id : 018
+Winner : 31738
+Target : 01457266
+Solution : 01446753 (validated)
+Votes : 2/2
+Wallets : 31737:11 31738:15
+
+Id : 019
+Winner : 31737
+Target : 01446753
+Solution : 01446753 (validated)
+Votes : 0/1
+Wallets : 31737:12 31738:16
+
+Id : 020
+Winner : 31737
+Target : 01446753
+Solution : 07216332 (validated)
+Votes : 2/2
+Wallets : 31737:13 31738:16
+
+Id : 021
+Winner : 31738
+Target : 07216332
+Solution : 08619049 (validated)
+Votes : 2/2
+Wallets : 31737:13 31738:17
+
+Id : 022
+Winner : 31738
+Target : 03117528
+Solution : 03990700 (validated)
+Votes : 2/2
+Wallets : 31737:13 31738:19
+
+Id : 023
+Winner : 31737
+Target : 03990700
+Solution : 03990700 (validated)
+Votes : 0/1
+Wallets : 31737:14 31738:20
+
+Id : 024
+Winner : 31737
+Target : 03990700
+Solution : 04805188 (validated)
+Votes : 2/2
+Wallets : 31737:15 31738:20
+
+Id : 025
+Winner : 31737
+Target : 04805188
+Solution : 00012670 (validated)
+Votes : 1/1
+Wallets : 31737:16 31738:20
+
+Id : 026
+Winner : 31737
+Target : 00012670
+Solution : 05471382 (validated)
+Votes : 2/2
+Wallets : 31737:17 31738:20
+
+Id : 027
+Winner : 31738
+Target : 05471382
+Solution : 09892035 (validated)
+Votes : 2/2
+Wallets : 31737:17 31738:21
+
+Id : 028
+Winner : 31738
+Target : 05102694
+Solution : 00622273 (validated)
+Votes : 2/2
+Wallets : 31737:17 31738:23
+
+Id : 029
+Winner : 31737
+Target : 00622273
+Solution : 00622273 (validated)
+Votes : 0/1
+Wallets : 31737:18 31738:24
+
+Id : 030
+Winner : 31737
+Target : 00622273
+Solution : 07976003 (validated)
+Votes : 2/2
+Wallets : 31737:19 31738:24
+
+Id : 031
+Winner : 31737
+Target : 07976003
+Solution : 06154908 (validated)
+Votes : 1/1
+Wallets : 31737:20 31738:24
+
+Id : 032
+Winner : 31737
+Target : 06154908
+Solution : 05734742 (validated)
+Votes : 2/2
+Wallets : 31737:21 31738:24
+
+Id : 033
+Winner : 31737
+Target : 05734742
+Solution : 02961610 (validated)
+Votes : 1/1
+Wallets : 31737:22 31738:24
+
+Id : 034
+Winner : 31737
+Target : 02961610
+Solution : 06076060 (validated)
+Votes : 2/2
+Wallets : 31737:23 31738:24
+
+Id : 035
+Winner : 31737
+Target : 06076060
+Solution : 03047694 (validated)
+Votes : 1/1
+Wallets : 31737:24 31738:24
+
+Id : 036
+Winner : 31737
+Target : 03047694
+Solution : 09038105 (validated)
+Votes : 2/2
+Wallets : 31737:25 31738:24
+
+Id : 037
+Winner : 31737
+Target : 09038105
+Solution : 03651635 (validated)
+Votes : 2/2
+Wallets : 31737:26
+
+Id : 038
+Winner : 31737
+Target : 03651635
+Solution : 03184039 (validated)
+Votes : 1/1
+Wallets : 31737:27
+
+Id : 039
+Winner : 31737
+Target : 03184039
+Solution : 05795776 (validated)
+Votes : 1/1
+Wallets : 31737:28
+
+Id : 040
+Winner : 31737
+Target : 05795776
+Solution : 05112584 (validated)
+Votes : 1/1
+Wallets : 31737:29
+
+Id : 041
+Winner : 31737
+Target : 05112584
+Solution : 06881244 (validated)
+Votes : 1/1
+Wallets : 31737:30
+
+Id : 042
+Winner : 31737
+Target : 06881244
+Solution : 08219829 (validated)
+Votes : 1/1
+Wallets : 31737:31
+
+Id : 043
+Winner : 31737
+Target : 08219829
+Solution : 03685447 (validated)
+Votes : 1/1
+Wallets : 31737:32
+
+Id : 044
+Winner : 31737
+Target : 03685447
+Solution : 03115003 (validated)
+Votes : 1/1
+Wallets : 31737:33
+
+Id : 045
+Winner : 31737
+Target : 03115003
+Solution : 08129530 (validated)
+Votes : 1/1
+Wallets : 31737:34
+
+Id : 046
+Winner : 31737
+Target : 08129530
+Solution : 08028328 (validated)
+Votes : 1/1
+Wallets : 31737:35
+
+Id : 047
+Winner : 31737
+Target : 08028328
+Solution : 01952246 (validated)
+Votes : 1/1
+Wallets : 31737:36
+
+Id : 048
+Winner : 31737
+Target : 01952246
+Solution : 05164715 (validated)
+Votes : 1/1
+Wallets : 31737:37
+
+Id : 049
+Winner : 31737
+Target : 05164715
+Solution : 06520516 (validated)
+Votes : 1/1
+Wallets : 31737:38
+
+Id : 050
+Winner : 31737
+Target : 06520516
+Solution : 03027276 (validated)
+Votes : 1/1
+Wallets : 31737:39
+
+Id : 051
+Winner : 31737
+Target : 03027276
+Solution : 09464184 (validated)
+Votes : 1/1
+Wallets : 31737:40
+
+Id : 052
+Winner : 31737
+Target : 09464184
+Solution : 01464112 (validated)
+Votes : 1/1
+Wallets : 31737:41
+
+Id : 053
+Winner : 31737
+Target : 01464112
+Solution : 05528602 (validated)
+Votes : 1/1
+Wallets : 31737:42
+
+Id : 054
+Winner : 31737
+Target : 05528602
+Solution : 06871580 (validated)
+Votes : 1/1
+Wallets : 31737:43
+
+Id : 055
+Winner : 31737
+Target : 06871580
+Solution : 00164998 (validated)
+Votes : 1/1
+Wallets : 31737:44
+
+Id : 056
+Winner : 31737
+Target : 00164998
+Solution : 02539414 (validated)
+Votes : 1/1
+Wallets : 31737:45
+
+Id : 057
+Winner : 31737
+Target : 02539414
+Solution : 07224306 (validated)
+Votes : 1/1
+Wallets : 31737:46
+
+Id : 058
+Winner : 31737
+Target : 07224306
+Solution : 09842279 (validated)
+Votes : 1/1
+Wallets : 31737:47
+
+Id : 059
+Winner : 31737
+Target : 09842279
+Solution : 00481605 (validated)
+Votes : 1/1
+Wallets : 31737:48
+
+Id : 060
+Winner : 31737
+Target : 00481605
+Solution : 09118334 (validated)
+Votes : 1/1
+Wallets : 31737:49
+
+Id : 061
+Winner : 31737
+Target : 09118334
+Solution : 04035435 (validated)
+Votes : 1/1
+Wallets : 31737:50
+
+Id : 062
+Winner : 31737
+Target : 04035435
+Solution : 03936790 (validated)
+Votes : 1/1
+Wallets : 31737:51
+
+Id : 063
+Winner : 31737
+Target : 03936790
+Solution : 05765649 (validated)
+Votes : 1/1
+Wallets : 31737:52
+
+Id : 064
+Winner : 31737
+Target : 05765649
+Solution : 00230245 (validated)
+Votes : 1/1
+Wallets : 31737:53
+
+Id : 065
+Winner : 31737
+Target : 00230245
+Solution : 03506143 (validated)
+Votes : 1/1
+Wallets : 31737:54
+
+Id : 066
+Winner : 31737
+Target : 03506143
+Solution : 00810473 (validated)
+Votes : 1/1
+Wallets : 31737:55
+
+Id : 067
+Winner : 31737
+Target : 00810473
+Solution : 09220376 (validated)
+Votes : 1/1
+Wallets : 31737:56
+
+Id : 068
+Winner : 31737
+Target : 09220376
+Solution : 08833626 (validated)
+Votes : 1/1
+Wallets : 31737:57
+
+Id : 069
+Winner : 31737
+Target : 08833626
+Solution : 08164959 (validated)
+Votes : 1/1
+Wallets : 31737:58
+
+Id : 070
+Winner : 31737
+Target : 08164959
+Solution : 03249870 (validated)
+Votes : 1/1
+Wallets : 31737:59
+
+Id : 071
+Winner : 31737
+Target : 03249870
+Solution : 09111416 (validated)
+Votes : 1/1
+Wallets : 31737:60
+
+Id : 072
+Winner : 31737
+Target : 09111416
+Solution : 00348768 (validated)
+Votes : 1/1
+Wallets : 31737:61
+
+Id : 073
+Winner : 31737
+Target : 00348768
+Solution : 04215070 (validated)
+Votes : 1/1
+Wallets : 31737:62
+
+Id : 074
+Winner : 31737
+Target : 04215070
+Solution : 08034860 (validated)
+Votes : 1/1
+Wallets : 31737:63
+
+Id : 075
+Winner : 31737
+Target : 08034860
+Solution : 07202100 (validated)
+Votes : 1/1
+Wallets : 31737:64
+
+Id : 076
+Winner : 31737
+Target : 07202100
+Solution : 03419216 (validated)
+Votes : 1/1
+Wallets : 31737:65
+
+Id : 077
+Winner : 31737
+Target : 03419216
+Solution : 03308492 (validated)
+Votes : 1/1
+Wallets : 31737:66
+
+Id : 078
+Winner : 31737
+Target : 03308492
+Solution : 04505593 (validated)
+Votes : 1/1
+Wallets : 31737:67
+
+Id : 079
+Winner : 31737
+Target : 04505593
+Solution : 08924837 (validated)
+Votes : 1/1
+Wallets : 31737:68
+
+Id : 080
+Winner : 31737
+Target : 08924837
+Solution : 02149005 (validated)
+Votes : 1/1
+Wallets : 31737:69
+
+Id : 081
+Winner : 31737
+Target : 02149005
+Solution : 01922040 (validated)
+Votes : 1/1
+Wallets : 31737:70
+
+Id : 082
+Winner : 31737
+Target : 01922040
+Solution : 07103396 (validated)
+Votes : 1/1
+Wallets : 31737:71
+
+Id : 083
+Winner : 31737
+Target : 07103396
+Solution : 00850770 (validated)
+Votes : 1/1
+Wallets : 31737:72
+
+Id : 084
+Winner : 31737
+Target : 00850770
+Solution : 03272894 (validated)
+Votes : 1/1
+Wallets : 31737:73
+
+Id : 085
+Winner : 31737
+Target : 03272894
+Solution : 01602503 (validated)
+Votes : 1/1
+Wallets : 31737:74
+
+Id : 086
+Winner : 31737
+Target : 01602503
+Solution : 09385629 (validated)
+Votes : 1/1
+Wallets : 31737:75
+
+Id : 087
+Winner : 31737
+Target : 09385629
+Solution : 06888876 (validated)
+Votes : 1/1
+Wallets : 31737:76
+
+Id : 088
+Winner : 31737
+Target : 06888876
+Solution : 06321325 (validated)
+Votes : 1/1
+Wallets : 31737:77
+
+Id : 089
+Winner : 31737
+Target : 06321325
+Solution : 00733782 (validated)
+Votes : 1/1
+Wallets : 31737:78
+
+Id : 090
+Winner : 31737
+Target : 00733782
+Solution : 08857738 (validated)
+Votes : 1/1
+Wallets : 31737:79
+
+Id : 091
+Winner : 31737
+Target : 08857738
+Solution : 00238683 (validated)
+Votes : 1/1
+Wallets : 31737:80
+
+Id : 092
+Winner : 31737
+Target : 00238683
+Solution : 04404355 (validated)
+Votes : 1/1
+Wallets : 31737:81
+
+Id : 093
+Winner : 31737
+Target : 04404355
+Solution : 03046346 (validated)
+Votes : 1/1
+Wallets : 31737:82
+
+Id : 094
+Winner : 31737
+Target : 03046346
+Solution : 05328238 (validated)
+Votes : 1/1
+Wallets : 31737:83
+
+Id : 095
+Winner : 31737
+Target : 05328238
+Solution : 00185421 (validated)
+Votes : 1/1
+Wallets : 31737:84
+
+Id : 096
+Winner : 31737
+Target : 00185421
+Solution : 01808178 (validated)
+Votes : 1/1
+Wallets : 31737:85
+
+Id : 097
+Winner : 31737
+Target : 01808178
+Solution : 03862169 (validated)
+Votes : 1/1
+Wallets : 31737:86
+
+Id : 098
+Winner : 31737
+Target : 03862169
+Solution : 09038074 (validated)
+Votes : 1/1
+Wallets : 31737:87
+
+Id : 099
+Winner : 31737
+Target : 09038074
+Solution : 03544069 (validated)
+Votes : 1/1
+Wallets : 31737:88
+
+Id : 100
+Winner : 31737
+Target : 03544069
+Solution : 07598840 (validated)
+Votes : 1/1
+Wallets : 31737:89
+
+Id : 101
+Winner : 31737
+Target : 07598840
+Solution : 04243714 (validated)
+Votes : 1/1
+Wallets : 31737:90
+
+Id : 102
+Winner : 31737
+Target : 04243714
+Solution : 07448874 (validated)
+Votes : 1/1
+Wallets : 31737:91
+
+Id : 103
+Winner : 31737
+Target : 07448874
+Solution : 06986352 (validated)
+Votes : 1/1
+Wallets : 31737:92
+
+Id : 104
+Winner : 31737
+Target : 06986352
+Solution : 07853833 (validated)
+Votes : 1/1
+Wallets : 31737:93
+
+Id : 105
+Winner : 31737
+Target : 07853833
+Solution : 04079084 (validated)
+Votes : 1/1
+Wallets : 31737:94
+
+Id : 106
+Winner : 31737
+Target : 04079084
+Solution : 07362771 (validated)
+Votes : 1/1
+Wallets : 31737:95
+
+Id : 107
+Winner : 31737
+Target : 07362771
+Solution : 07183443 (validated)
+Votes : 1/1
+Wallets : 31737:96
+
+Id : 108
+Winner : 31737
+Target : 07183443
+Solution : 08343206 (validated)
+Votes : 1/1
+Wallets : 31737:97
+
+Id : 109
+Winner : 31737
+Target : 08343206
+Solution : 06079329 (validated)
+Votes : 1/1
+Wallets : 31737:98
+
+Id : 110
+Winner : 31737
+Target : 06079329
+Solution : 01490448 (validated)
+Votes : 1/1
+Wallets : 31737:99
+
+Id : 111
+Winner : 31737
+Target : 01490448
+Solution : 09834408 (validated)
+Votes : 1/1
+Wallets : 31737:100
+
+Id : 112
+Winner : 31737
+Target : 09834408
+Solution : 08968456 (validated)
+Votes : 1/1
+Wallets : 31737:101
+
+Id : 113
+Winner : 31737
+Target : 08968456
+Solution : 07405928 (validated)
+Votes : 1/1
+Wallets : 31737:102
+
+Id : 114
+Winner : 31737
+Target : 07405928
+Solution : 06644703 (validated)
+Votes : 1/1
+Wallets : 31737:103
+
